@@ -1,0 +1,2117 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border-ri",
+				"border-right"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bott",
+				"bottom"
+			],
+			[
+				"f",
+				"font	Tag"
+			],
+			[
+				"h",
+				"hr	Tag"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"fl",
+				"float-left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"produc",
+				"productName"
+			],
+			[
+				"order",
+				"orderNumber"
+			],
+			[
+				"ord",
+				"orderNumber"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"pay",
+				"payDTO"
+			],
+			[
+				"r",
+				"rootScope"
+			],
+			[
+				"pro",
+				"proxyLoginId"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"arti",
+				"articleList1"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sele",
+				"selectStatus"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fnt",
+				"font-size"
+			],
+			[
+				"header",
+				"headerLeft"
+			],
+			[
+				"log",
+				"loginId"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"user",
+				"userProfile"
+			],
+			[
+				"in",
+				"isIndividual"
+			],
+			[
+				"pass",
+				"password1"
+			],
+			[
+				"new",
+				"newPasswordConfirm"
+			],
+			[
+				"Valida",
+				"validationService"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"paddig",
+				"padding-right"
+			],
+			[
+				"CO",
+				"color"
+			],
+			[
+				"get",
+				"getArticles"
+			],
+			[
+				"PADDING",
+				"padding-right"
+			],
+			[
+				"cor",
+				"color"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"BACKG",
+				"background-color"
+			],
+			[
+				"p",
+				"phone"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"l",
+				"location"
+			],
+			[
+				"m",
+				"model"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"page",
+				"pageFooter"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"BAC",
+				"background-color"
+			],
+			[
+				"pi",
+				"position"
+			],
+			[
+				"my",
+				"my-service-2"
+			],
+			[
+				"FO",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"v",
+				"vertical-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!-- first time launch, guide page -->\n    <div id=\"guideDiv\" class=\"guide\" ng-controller=\"GuideCtrl\">\n      <div id=\"myCarousel\" class=\"carousel slide\">\n        <ol class=\"carousel-indicators\">\n          <li data-target=\"#myCarousel\" data-slide-to=\"0\" class=\"active\"></li>\n          <li data-target=\"#myCarousel\" data-slide-to=\"1\"></li>\n          <li data-target=\"#myCarousel\" data-slide-to=\"2\"></li>\n        </ol>\n        <!-- Carousel items -->\n        <div class=\"carousel-inner\">\n          <div class=\"active item\"><img src=\"./images/guide/guide-1.png\"></div>\n          <div class=\"item\"><img src=\"./images/guide/guide-2.png\"></div>\n          <div class=\"item\"><img src=\"./images/guide/guide-3.png\"></div>\n        </div>\n      </div>\n      <div class=\"guide-start\" >\n          <label hm-tap=\"start()\">立即体验</label>\n        </div>\n    </div>",
+			"file": "/Users/LUOCHANGQING/app/community/app/views/guide.html",
+			"file_size": 852,
+			"file_write_time": 1463642541000000,
+			"settings":
+			{
+				"buffer_size": 844,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/menu.js",
+			"settings":
+			{
+				"buffer_size": 496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/activity.html",
+			"settings":
+			{
+				"buffer_size": 6276,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/buy.html",
+			"settings":
+			{
+				"buffer_size": 3940,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/activity-add.html",
+			"settings":
+			{
+				"buffer_size": 3185,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/activity-add.js",
+			"settings":
+			{
+				"buffer_size": 525,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/buy.js",
+			"settings":
+			{
+				"buffer_size": 244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/index.html",
+			"settings":
+			{
+				"buffer_size": 5467,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/buy-details.js",
+			"settings":
+			{
+				"buffer_size": 251,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 2235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/buy-details.html",
+			"settings":
+			{
+				"buffer_size": 8134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/product-details.js",
+			"settings":
+			{
+				"buffer_size": 1066,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/product-list.html",
+			"settings":
+			{
+				"buffer_size": 3989,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/product-details.html",
+			"settings":
+			{
+				"buffer_size": 5524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/product-list.js",
+			"settings":
+			{
+				"buffer_size": 482,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/product-add.js",
+			"settings":
+			{
+				"buffer_size": 838,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/my-product-list.js",
+			"settings":
+			{
+				"buffer_size": 484,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/my-product-list-buy.html",
+			"settings":
+			{
+				"buffer_size": 4059,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/my-product-list-sell.html",
+			"settings":
+			{
+				"buffer_size": 4063,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/my.html",
+			"settings":
+			{
+				"buffer_size": 2407,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/activity-details.html",
+			"settings":
+			{
+				"buffer_size": 7380,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/utility.html",
+			"settings":
+			{
+				"buffer_size": 1603,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.css",
+			"settings":
+			{
+				"buffer_size": 9801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/utility.js",
+			"settings":
+			{
+				"buffer_size": 240,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/activity.js",
+			"settings":
+			{
+				"buffer_size": 798,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/question.html",
+			"settings":
+			{
+				"buffer_size": 3039,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/views/navbar.html",
+			"settings":
+			{
+				"buffer_size": 980,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/question.js",
+			"settings":
+			{
+				"buffer_size": 543,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/LUOCHANGQING/app/community/app/views/navbar.html",
+		"/Users/LUOCHANGQING/app/community/app/styles/main.css",
+		"/Users/LUOCHANGQING/app/community/app/scripts/controllers/activity.js",
+		"/Users/LUOCHANGQING/app/community/app/scripts/controllers/activity-details.js",
+		"/Users/LUOCHANGQING/app/community/app/views/product-add.html",
+		"/Users/LUOCHANGQING/app/community/app/views/activity-details.html",
+		"/Users/LUOCHANGQING/app/community/app/scripts/controllers/product-list.js",
+		"/Users/LUOCHANGQING/app/community/app/scripts/app.js",
+		"/Users/LUOCHANGQING/app/community/app/scripts/controllers/main.js",
+		"/Users/LUOCHANGQING/app/community/app/views/main-2.html",
+		"/Users/LUOCHANGQING/app/community/app/views/main-1.html",
+		"/Users/LUOCHANGQING/app/community/app/views/main.html",
+		"/Users/LUOCHANGQING/app/community/app/scripts/controllers/guide.js",
+		"/Users/LUOCHANGQING/app/community/app/index.html",
+		"/Users/LUOCHANGQING/app/community/app/scripts/controllers/activity-add.js",
+		"/Users/LUOCHANGQING/app/community/app/views/my.html",
+		"/Users/LUOCHANGQING/app/community/app/views/share.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/app.js",
+		"/Users/LUOCHANGQING/app/community/Gruntfile.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/my-income.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-info.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/register.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/register-proxy.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/my-proxy.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/my-customer.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-service-nav.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-customer.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-barcode.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/env-health-nav.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/index.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/pay.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/styles/main.css",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-service.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/main.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/about-company.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/main.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/change-password.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/order.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/my-order.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/order.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-order.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/product-details.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-order-detail.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/my-order-detail.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/my-service.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/navbar.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-report-list.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/register.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/my-info.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-employee.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-proxy.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/product-list.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/product-details.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/product-list.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/pay.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/my-report.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-report.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/my-report-list.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/my-airquality.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/wechat.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/cordova_plugins.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-airquality.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/landing.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/env-health-nav.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/env-health.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/air.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/my-income.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/login.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/my-employee.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/indoor-3.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/indoor-5.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/indoor-4.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/indoor-6.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/env-health.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/change-password.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/reset.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/ValidationService.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/product.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/login.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/pollution-detect.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/pollution-detect-nav.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/envmon.sublime-project",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/about-app.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/building-2.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/building-1.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/indoor-1.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/indoor-2.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/indoor-7.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/pollution-detect.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/airs.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/scripts/controllers/reset.js",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/tvoc.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/air-quality.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/images/icon-home.png",
+		"/Users/LUOCHANGQING/app/env-mon/app/images/banner.jpg",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/1.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/2.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/3.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/4.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/5.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/news1.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/news2.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/news3.html",
+		"/Users/LUOCHANGQING/app/env-mon/app/views/detect1.html",
+		"/Users/LUOCHANGQING/angular-app/app/index.html",
+		"/Users/LUOCHANGQING/app/env-mon/www1/index.html",
+		"/Users/LUOCHANGQING/app/env-mon/Gruntfile.js",
+		"/Users/LUOCHANGQING/app/env-mon/package.json",
+		"/Users/LUOCHANGQING/app/env-mon/platforms/ios/www/index.html",
+		"/Users/LUOCHANGQING/app/env-mon/www/index.html",
+		"/Users/LUOCHANGQING/app/README.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"padding",
+			"MyProductListCtrl",
+			"productCarousel",
+			"margin-bottom-10",
+			"<i",
+			"input",
+			"share",
+			"<i",
+			"font",
+			"ActivityDetailsCtrl",
+			"se p er a to r",
+			"customization",
+			"ng-class",
+			"inde",
+			"ng-class",
+			"-gray",
+			"background",
+			"directionfont",
+			"rotate",
+			"text-",
+			"leftAnimation",
+			"jquery",
+			"localStorage",
+			"nav-article-container",
+			"支付失败",
+			"ordova",
+			"WECHAT",
+			"font-size",
+			"env-health",
+			"direct",
+			"product-type-container",
+			"background",
+			"overflow-scroll",
+			"noheader",
+			"overflow-scroll",
+			"nav-main-container",
+			"env-health-detail",
+			"env-health-details",
+			"content-container",
+			"bottom",
+			"right-main",
+			"env-health-main-details",
+			"env-health-3",
+			"order",
+			".pollution-detect-1",
+			"nav-image-container",
+			"customerinfo",
+			"direct",
+			"env-health-3",
+			"content-container",
+			"userprofile",
+			"pollution-detect-",
+			"hm-swipe",
+			"hm",
+			"section",
+			"bottom",
+			"swipe",
+			"table",
+			"env-health-3",
+			"popup",
+			"bottom",
+			"phonegap",
+			"direct",
+			"isshowaddress",
+			"bottom",
+			"showSummaryScreen",
+			".login-section-button input",
+			"#",
+			"nav-env-health-text",
+			"pollution-detect-type",
+			"l1",
+			"env-health",
+			"back",
+			"my-service-1",
+			"pollution",
+			"overf",
+			";\n",
+			"overflow",
+			"CONTENT",
+			"overflow",
+			"over home",
+			"overflow",
+			"font-size",
+			"overflow",
+			"message",
+			".my-service-1",
+			"pollution-detect-details",
+			"pollution-detect-1",
+			"MainCtrl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pollution-detect"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 22,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/guide.html",
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/menu.js",
+					"settings":
+					{
+						"buffer_size": 496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/activity.html",
+					"settings":
+					{
+						"buffer_size": 6276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								978,
+								978
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 265.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/buy.html",
+					"settings":
+					{
+						"buffer_size": 3940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1527,
+								1527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 229.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/activity-add.html",
+					"settings":
+					{
+						"buffer_size": 3185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/activity-add.js",
+					"settings":
+					{
+						"buffer_size": 525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/buy.js",
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/LUOCHANGQING/app/community/app/index.html",
+					"settings":
+					{
+						"buffer_size": 5467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5344,
+								5344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2150.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/buy-details.js",
+					"settings":
+					{
+						"buffer_size": 251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 2235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								807,
+								819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 617.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/buy-details.html",
+					"settings":
+					{
+						"buffer_size": 8134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8032,
+								8032
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2686.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/product-details.js",
+					"settings":
+					{
+						"buffer_size": 1066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								762,
+								762
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 273.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/product-list.html",
+					"settings":
+					{
+						"buffer_size": 3989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/product-details.html",
+					"settings":
+					{
+						"buffer_size": 5524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/product-list.js",
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								342
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/product-add.js",
+					"settings":
+					{
+						"buffer_size": 838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 116.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/my-product-list.js",
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/my-product-list-buy.html",
+					"settings":
+					{
+						"buffer_size": 4059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								337,
+								337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/my-product-list-sell.html",
+					"settings":
+					{
+						"buffer_size": 4063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 73.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/my.html",
+					"settings":
+					{
+						"buffer_size": 2407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								481,
+								481
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/activity-details.html",
+					"settings":
+					{
+						"buffer_size": 7380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4786,
+								4786
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2299.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/utility.html",
+					"settings":
+					{
+						"buffer_size": 1603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "main.css",
+					"settings":
+					{
+						"buffer_size": 9801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6945,
+								6945
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6684.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/utility.js",
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/activity.js",
+					"settings":
+					{
+						"buffer_size": 798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								780
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 237.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/question.html",
+					"settings":
+					{
+						"buffer_size": 3039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2308,
+								2308
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1235.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/Users/LUOCHANGQING/app/community/app/views/navbar.html",
+					"settings":
+					{
+						"buffer_size": 980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								562,
+								562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "/Users/LUOCHANGQING/app/community/app/scripts/controllers/question.js",
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								524,
+								524
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 98.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main.cs",
+				"styles/main.css"
+			],
+			[
+				"main.c",
+				"styles/main.css"
+			],
+			[
+				"acti",
+				"views/activity-details.html"
+			],
+			[
+				"activ",
+				"views/activity.html"
+			],
+			[
+				"my",
+				"views/my.html"
+			],
+			[
+				"quest",
+				"views/question.html"
+			],
+			[
+				"question",
+				"scripts/controllers/question.js"
+			],
+			[
+				"activity",
+				"scripts/controllers/activity.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"question.js",
+				"scripts/controllers/question.js"
+			],
+			[
+				"app.js",
+				"scripts/app.js"
+			],
+			[
+				"",
+				"views/navbar.html"
+			],
+			[
+				"na",
+				"views/navbar.html"
+			],
+			[
+				"product",
+				"views/product-list.html"
+			],
+			[
+				"u",
+				"views/utility.html"
+			],
+			[
+				"app",
+				"scripts/app.js"
+			],
+			[
+				"utilit",
+				"scripts/controllers/utility.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"uti",
+				"scripts/controllers/utility.js"
+			],
+			[
+				"utili",
+				"views/utility.html"
+			],
+			[
+				"main",
+				"styles/main.css"
+			],
+			[
+				"ac",
+				"scripts/controllers/activity-details.js"
+			],
+			[
+				"activity.js",
+				"scripts/controllers/activity.js"
+			],
+			[
+				"main.css",
+				"styles/main.css"
+			],
+			[
+				"my.html",
+				"views/my.html"
+			],
+			[
+				"nav",
+				"views/navbar.html"
+			],
+			[
+				"product-a",
+				"views/product-add.html"
+			],
+			[
+				"my-product-list",
+				"views/my-product-list-sell.html"
+			],
+			[
+				"activi",
+				"views/activity-details.html"
+			],
+			[
+				"my-product",
+				"views/my-product-list-buy.html"
+			],
+			[
+				"my-produ",
+				"scripts/controllers/my-product-list.js"
+			],
+			[
+				"product-add",
+				"views/product-add.html"
+			],
+			[
+				"produ",
+				"views/product-add.html"
+			],
+			[
+				"prd",
+				"views/product-list.html"
+			],
+			[
+				"pro",
+				"scripts/controllers/product-add.js"
+			],
+			[
+				"pr",
+				"views/product-details.html"
+			],
+			[
+				"product-list.js",
+				"scripts/controllers/product-list.js"
+			],
+			[
+				"a",
+				"scripts/controllers/activity.js"
+			],
+			[
+				"p",
+				"views/product-details.html"
+			],
+			[
+				"product-details.js",
+				"scripts/controllers/product-details.js"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"produc",
+				"views/product-list.html"
+			],
+			[
+				"buy-de",
+				"views/buy-details.html"
+			],
+			[
+				"add",
+				"views/activity-add.html"
+			],
+			[
+				"buy-detai",
+				"views/buy-details.html"
+			],
+			[
+				"buy",
+				"scripts/controllers/buy-details.js"
+			],
+			[
+				"bu",
+				"views/buy.html"
+			],
+			[
+				"buy.html",
+				"views/buy.html"
+			],
+			[
+				"b",
+				"scripts/controllers/buy.js"
+			],
+			[
+				"ad",
+				"scripts/controllers/activity-details.js"
+			],
+			[
+				"main.",
+				"styles/main.css"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"ine",
+				"index.html"
+			],
+			[
+				"activity.html",
+				"views/activity.html"
+			],
+			[
+				"my-income.js",
+				"scripts/controllers/my-income.js"
+			],
+			[
+				"my-servi",
+				"views/my-service-nav.html"
+			],
+			[
+				"my-info",
+				"views/my-info.html"
+			],
+			[
+				"regis",
+				"scripts/controllers/register.js"
+			],
+			[
+				"register",
+				"scripts/controllers/register.js"
+			],
+			[
+				"my-customer.js",
+				"scripts/controllers/my-customer.js"
+			],
+			[
+				"my-pro",
+				"scripts/controllers/my-proxy.js"
+			],
+			[
+				"my-customer",
+				"views/my-customer.html"
+			],
+			[
+				"bar",
+				"views/my-barcode.html"
+			],
+			[
+				"pay.js",
+				"scripts/controllers/pay.js"
+			],
+			[
+				"main.js",
+				"scripts/controllers/main.js"
+			],
+			[
+				"main.ht",
+				"views/main.html"
+			],
+			[
+				"about",
+				"views/about-company.html"
+			],
+			[
+				"order-de",
+				"views/my-order-detail.html"
+			],
+			[
+				"my-order",
+				"views/my-order-detail.html"
+			],
+			[
+				"order",
+				"views/my-order.html"
+			],
+			[
+				"order.js",
+				"scripts/controllers/order.js"
+			],
+			[
+				"order.html",
+				"views/order.html"
+			],
+			[
+				"pay",
+				"scripts/controllers/pay.js"
+			],
+			[
+				"change",
+				"views/change-password.html"
+			],
+			[
+				"my-service",
+				"views/my-service-nav.html"
+			],
+			[
+				"my-servic",
+				"views/my-service-nav.html"
+			],
+			[
+				"env-health",
+				"views/env-health-nav.html"
+			],
+			[
+				"my-em",
+				"views/my-employee.html"
+			],
+			[
+				"my-inco",
+				"scripts/controllers/my-income.js"
+			],
+			[
+				"regi",
+				"views/register-proxy.html"
+			],
+			[
+				"re",
+				"views/register.html"
+			],
+			[
+				"my-c",
+				"views/my-customer.html"
+			],
+			[
+				"y-info.",
+				"views/my-info.html"
+			],
+			[
+				"my-repor",
+				"views/my-report-list.html"
+			],
+			[
+				"main.html",
+				"views/main.html"
+			],
+			[
+				"main.h",
+				"views/main.html"
+			],
+			[
+				"my-ser",
+				"scripts/controllers/my-service.js"
+			],
+			[
+				"my-order-d",
+				"views/my-order-detail.html"
+			],
+			[
+				"my-order.html",
+				"views/my-order.html"
+			],
+			[
+				"my-report",
+				"scripts/controllers/my-report.js"
+			],
+			[
+				"my-order.js",
+				"scripts/controllers/my-order.js"
+			],
+			[
+				"orrder.js",
+				"scripts/controllers/order.js"
+			],
+			[
+				"pay.html",
+				"views/pay.html"
+			],
+			[
+				"wechat",
+				"scripts/wechat.js"
+			],
+			[
+				"cordova_plugins",
+				"scripts/cordova_plugins.js"
+			],
+			[
+				"appjs",
+				"scripts/app.js"
+			],
+			[
+				"prod",
+				"views/product-list.html"
+			],
+			[
+				"productd",
+				"scripts/controllers/product-details.js"
+			],
+			[
+				"productde",
+				"views/product-details.html"
+			],
+			[
+				"product-list",
+				"scripts/controllers/product-list.js"
+			],
+			[
+				"ap",
+				"scripts/app.js"
+			],
+			[
+				"m",
+				"scripts/controllers/my-info.js"
+			],
+			[
+				"landing.html",
+				"views/landing.html"
+			],
+			[
+				"index.html",
+				"index.html"
+			],
+			[
+				"en",
+				"scripts/controllers/env-health-nav.js"
+			],
+			[
+				"mai.js",
+				"scripts/controllers/main.js"
+			],
+			[
+				"maincss",
+				"styles/main.css"
+			],
+			[
+				"my-cus",
+				"views/my-customer.html"
+			],
+			[
+				"my-ai",
+				"scripts/controllers/my-airquality.js"
+			],
+			[
+				"my-air",
+				"views/my-airquality.html"
+			],
+			[
+				"my-airqu",
+				"scripts/controllers/my-airquality.js"
+			],
+			[
+				"ide",
+				"index.html"
+			],
+			[
+				"air",
+				"views/air.html"
+			],
+			[
+				"my-proxy",
+				"views/my-proxy.html"
+			],
+			[
+				"my-prox",
+				"scripts/controllers/my-proxy.js"
+			],
+			[
+				"my-empl",
+				"views/my-employee.html"
+			],
+			[
+				"my-employee",
+				"scripts/controllers/my-employee.js"
+			],
+			[
+				"my-emploee.html",
+				"views/my-employee.html"
+			],
+			[
+				"my-employee.js",
+				"scripts/controllers/my-employee.js"
+			],
+			[
+				"my-employ",
+				"scripts/controllers/my-employee.js"
+			],
+			[
+				"my-emp",
+				"scripts/controllers/my-employee.js"
+			],
+			[
+				"my-proxy.js",
+				"scripts/controllers/my-proxy.js"
+			],
+			[
+				"my-service-na",
+				"views/my-service-nav.html"
+			],
+			[
+				"login.js",
+				"scripts/controllers/login.js"
+			],
+			[
+				"my-income",
+				"scripts/controllers/my-income.js"
+			],
+			[
+				"my-cust",
+				"views/my-customer.html"
+			],
+			[
+				"order.htm",
+				"views/order.html"
+			],
+			[
+				"myin",
+				"views/my-income.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,14 @@
+<div class="row" ng-controller="MenuCtrl">
+  <div class="col-xs-3 col-sm-3 text-center" ng-class="{'text-generic':isMenuSelected('activity'),'text-gray':!isMenuSelected('activity')}" hm-tap="selectMenu('activity')">
+    <i class="iconfont menufont">&#xe73d;</i><br>群活动
+  </div>
+  <div class="col-xs-3 col-sm-3 text-center" ng-class="{'text-generic':isMenuSelected('question'),'text-gray':!isMenuSelected('question')}" hm-tap="selectMenu('question')">
+   <i class="iconfont menufont">&#xe741;</i><br>我要问
+  </div>
+  <div class="col-xs-3 col-sm-3 text-center" ng-class="{'text-generic':isMenuSelected('product-list'),'text-gray':!isMenuSelected('product-list')}" hm-tap="selectMenu('product-list')">
+    <i class="iconfont menufont">&#xe6cd;</i><br>小买卖
+  </div>
+  <div class="col-xs-3 col-sm-3 text-center" ng-class="{'text-generic':isMenuSelected('my'),'text-gray':!isMenuSelected('my')}" hm-tap="selectMenu('my')">
+    <i class="iconfont menufont">&#xe78b;</i><br>我
+  </div>
+</div>

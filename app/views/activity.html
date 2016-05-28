@@ -1,0 +1,126 @@
+<div class="pageHeader">
+	<div class="container">
+		<div class="col-xs-3 text-left text-white text-11em" hm-tap="showUtility()"><i class="infofont">&#xe608;</i></div>
+		<div class="col-xs-9 text-center text-white text-11em">运动 吃货 亲子 游玩 应有尽有</div>
+
+	</div>
+</div>
+
+<div class="pageContent">
+	<div id="activityCarousel" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#activityCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#activityCarousel" data-slide-to="1"></li>
+          <li data-target="#activityCarousel" data-slide-to="2"></li>
+        </ol>
+        <!-- Carousel items -->
+        <div class="carousel-inner">
+          <div class="active item"><img src="./images/activity/activity-1.png"></div>
+          <div class="item"><img src="./images/activity/activity-2.png"></div>
+          <div class="item"><img src="./images/activity/activity-3.png"></div>
+        </div>
+	</div>
+	<div class="container">
+		
+		<div class="row margin-top-20 tabs">
+			<div id="activity-type-0" class="col-xs-4 tab-item" hm-tap="changeActivityType('activity-type-0')" ng-class="{'active':isActivityType('activity-type-0')}">推荐活动</div>
+			<div id="activity-type-1" class="col-xs-4 tab-item" hm-tap="changeActivityType('activity-type-1')" ng-class="{'active':isActivityType('activity-type-1')}">参与活动</div>
+			<div id="activity-type-2" class="col-xs-4 tab-item" hm-tap="changeActivityType('activity-type-2')" ng-class="{'active':isActivityType('activity-type-2')}">全部活动</div>
+		</div>
+		<div class="row">
+			<div class="row margin-left-10 margin-right-10 margin-top-10" hm-tap="go('activity-details')">
+				<div class="col-xs-12 background-white text-gray" style="background-color: #A9CABC">
+					<div class="row text-center">
+						<div class="col-xs-3 text-left"><i class="activityfont text-20em text-generic">&#xe6da;</i></div>
+						<div class="col-xs-6"></div>
+						<div class="col-xs-3 text-rigt text-white tag-inprogress">正在进行</div>
+					</div>
+					<div class="row text-center text-20em">骑行龙泉山</div>
+					<div class="row margin-top-20"><div class="col-xs-12"><i class="activityfont text-10em text-gray">&#xe601;</i>成都市龙泉驿区龙泉山风景区 </div></div>
+					<div class="row margin-top-10">
+						<div class="col-xs-8"><i class="activityfont text-10em text-gray">&#xe602;</i>2016-06-20 09:00</div>
+						<div class="col-xs-4 text-right">
+							<i class="iconfont text-gray">&#xe78b;</i> 300
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row margin-left-10 margin-right-10 margin-top-10">
+				<div class="col-xs-12 background-white text-gray" style="background-color: #5A4141">
+					<div class="row text-center">
+						<div class="col-xs-3 text-left"><i class="activityfont text-20em text-generic">&#xe689;</i></div>
+						<div class="col-xs-6"></div>
+						<div class="col-xs-3 text-rigt text-white tag-inprogress">正在进行</div>
+					</div>
+					<div class="row text-center text-20em">小区篮球赛</div>
+					<div class="row margin-top-20"><div class="col-xs-12"><i class="activityfont text-10em text-gray">&#xe601;</i>成都市锦江区468公馆篮球场 </div></div>
+					<div class="row margin-top-10">
+						<div class="col-xs-8"><i class="activityfont text-10em text-gray">&#xe602;</i>2016-06-20 09:00</div>
+						<div class="col-xs-4 text-right">
+							<i class="iconfont text-gray">&#xe78b;</i> 300
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row margin-left-10 margin-right-10 margin-top-10">
+				<div class="col-xs-12 background-white text-gray" style="background-color: #B8B6CC">
+					<div class="row text-center">
+						<div class="col-xs-3 text-left"><i class="activityfont text-20em text-generic">&#xe611;</i></div>
+						<div class="col-xs-6"></div>
+						<div class="col-xs-3 text-rigt text-white tag-plan">即将开始</div>
+					</div>
+					<div class="row text-center text-20em">夏日游泳</div>
+					<div class="row margin-top-20"><div class="col-xs-12"><i class="activityfont text-10em text-gray">&#xe601;</i>成都市猛追湾游泳馆 </div></div>
+					<div class="row margin-top-10">
+						<div class="col-xs-8"><i class="activityfont text-10em text-generic">&#xe602;</i>2016-06-20 09:00</div>
+						<div class="col-xs-4 text-gray">
+							<i class="iconfont text-gray">&#xe78b;</i> 300
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row margin-left-10 margin-right-10 margin-top-10">
+				<div class="col-xs-12 background-white text-gray" style="background-color: #A1A74A">
+					<div class="row text-center">
+						<div class="col-xs-3 text-left"><i class="activityfont text-20em text-generic">&#xe700;</i></div>
+						<div class="col-xs-6"></div>
+						<div class="col-xs-3 text-rigt text-white tag-plan">即将开始</div>
+					</div>
+					<div class="row text-center text-20em">亲子游</div>
+					<div class="row margin-top-20"><div class="col-xs-12"><i class="activityfont text-10em text-gray">&#xe601;</i>成都市青龙湖风景区 </div></div>
+					<div class="row margin-top-10">
+						<div class="col-xs-8"><i class="activityfont text-10em text-generic">&#xe602;</i>2016-06-20 09:00</div>
+						<div class="col-xs-4 text-gray">
+							<i class="iconfont text-gray">&#xe78b;</i> 300
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row margin-left-10 margin-right-10 margin-top-10">
+				<div class="col-xs-12 background-white text-gray" style="background-color: #4F4DAB">
+					<div class="row text-center">
+						<div class="col-xs-3 text-left"><i class="activityfont text-20em text-generic">&#xe636;</i></div>
+						<div class="col-xs-6"></div>
+						<div class="col-xs-3 text-rigt background-gray text-white tag-done">已完成</div>
+					</div>
+					<div class="row text-center text-20em">秀丽东方一日游</div>
+					<div class="row margin-top-20"><div class="col-xs-12"><i class="activityfont text-10em text-gray">&#xe601;</i>成都市锦江区三圣乡秀丽东方园区 </div></div>
+					<div class="row margin-top-10">
+						<div class="col-xs-8"><i class="activityfont text-10em text-gray">&#xe602;</i>2016-06-20 09:00</div>
+						<div class="col-xs-4 text-right">
+							<i class="iconfont text-gray">&#xe78b;</i> 300
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>	
+	</div>
+</div>
+<div class="float-button background-generic text-center" hm-tap="go('activity-add')">
+	<i class="directionfont text-10em text-white">发起</i>
+</div>
+
