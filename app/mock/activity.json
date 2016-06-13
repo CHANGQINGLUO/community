@@ -1,0 +1,37 @@
+[  
+   {  
+      "status":"inProgress",
+      "category":"骑行龙泉山",
+      "subCategory":"成都市龙泉驿区龙泉山风景区",
+      "timestamp":"2016-06-20 09:00",
+      "counts":300
+   },
+   {  
+      "status":"inProgress",
+      "category":"小区篮球赛",
+      "subCategory":"成都市锦江区468公馆篮球场",
+      "timestamp":"2016-06-20 09:00",
+      "counts":100
+   },
+   {  
+      "status":"plan",
+      "category":"夏日游泳",
+      "subCategory":"成都市猛追湾游泳馆",
+      "timestamp":"2016-06-20 09:00",
+      "counts":200
+   },
+   {  
+      "status":"plan",
+      "category":"亲子游",
+      "subCategory":"成都市青龙湖风景区",
+      "timestamp":"2016-06-20 09:00",
+      "counts":300
+   },
+   {  
+      "status":"done",
+      "category":"秀丽东方一日游",
+      "subCategory":"成都市锦江区三圣乡秀丽东方园区",
+      "timestamp":"2016-06-20 09:00",
+      "counts":300
+   }
+]
