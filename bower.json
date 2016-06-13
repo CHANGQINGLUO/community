@@ -11,7 +11,10 @@
     "angular-sanitize": "^1.4.0",
     "angular-touch": "^1.4.0",
     "ryanmullins-angular-hammer": "^2.1.10",
-    "jquery-hammerjs": "^2.0.0"
+    "jquery-hammerjs": "^2.0.0",
+    "angular-translate": "~2.11.0",
+    "angular-translate-loader-static-files": "2.11.0",
+    "ngCordova": "0.1.26-alpha"
   },
   "devDependencies": {
     "angular-mocks": "^1.4.0"

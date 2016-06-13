@@ -8,7 +8,7 @@
  * Controller of the appApp
  */
 angular.module('appApp')
-  .controller('ActivityDetailsCtrl', function ($scope,$rootScope,$location) {
+  .controller('ActivityDetailsCtrl', function ($scope,$rootScope,$location,$http) {
 
   	$scope.activityJoined = false;
   	$scope.commentActive = false;
@@ -56,5 +56,19 @@ angular.module('appApp')
   			$('.popup-info').addClass('popup-info-inactive');
   		},1000);
   	}
+
+    $http.get("/mock/activityDetails.json").then(function(response) {
+            $scope.activityDetails = response.data;
+            var participants = $scope.activityDetails.participants;
+           
+            for (var i = 0; i <= participants.length; i++) {
+                
+            };
+                
+            console.log($scope.activityDetails);
+        }, function(response) {
+            //Second function handles error
+            console.log("Something went wrong - activityDetails");
+        });
 
   });

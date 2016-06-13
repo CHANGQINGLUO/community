@@ -12,4 +12,14 @@ angular.module('appApp')
 
 
 
+  })  
+  .config(function ($translateProvider) {      
+    $translateProvider.useSanitizeValueStrategy(null);
+
+    $translateProvider.useStaticFilesLoader({
+      prefix: '/locale/lang_',
+      suffix: '.json'
+    });
+
+    $translateProvider.preferredLanguage('ch');
   });
